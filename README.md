@@ -5,4 +5,5 @@ https://canva.link/048uq1u0t4bmqez
 <img width="944" height="663" alt="Captura de tela 2026-09-03 211725" src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" />
 <img width="1296" height="642" alt="image" src="https://github.com/user-attachments/assets/d7d4a285-9a24-465e-9b41-b651f17a38a6" />
 <img width="1299" height="773" alt="image" src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" />
+<img width="1313" height="734" alt="image" src="https://github.com/user-attachments/assets/0e07054f-560e-4803-b9d4-2c90e180c0c7" />
 
