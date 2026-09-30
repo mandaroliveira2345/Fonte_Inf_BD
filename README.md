@@ -23,6 +23,18 @@ Além da representação da resposta pelas tabelas, gráficos correspondentes a 
 <img width="944" height="663" alt="Captura de tela 2026-09-03 211725" src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" />
 
 ## Análise de Dados abertos gov.br: Chegada de turistas no Brasil
+Para analisar o conjunto de dados, o arquivo de chegada de turistas no Brasil foi baixado através do portal de dados abertos gov.br, para representarmos as informações em tabela no excel.
+Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha escolha foi representar 3 perguntas em fórmula juntamente a 3 gráficos.
+
+Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
+
+Qual via de acesso foi mais utilizada pelos turistas?
+
+Qual estado foi mais visitado?
+
+Qual mês teve maior numero de túristas?
+
+Além da representação da resposta pelas tabelas, a construção dos gráficos correspondentes a cada pergunta tornaram a visualização mais clara!
 <img width="1296" height="642" alt="image" src="https://github.com/user-attachments/assets/d7d4a285-9a24-465e-9b41-b651f17a38a6" />
 
 ## Análise de Dados abertos: Empresas Multimodais utilizando o Power BI
