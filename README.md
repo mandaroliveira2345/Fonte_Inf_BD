@@ -16,6 +16,7 @@ Para fazer a análise dos dados, baixamos o arquivo das empresas multimodais no 
 Onde deveríamos elaborar 2 perguntas sobre o conjunto de dados. Então utilizando a fórmula: CONT.SE, foram respondidas as seguintes perguntas:
 
 Qual estado tem mais empresas habilitadas multimodal?
+
 Qual país exceto o Brasil tem o maior número de empresas?
 
 Além da representação da resposta pelas tabelas, gráficos correspondentes a cada pergunta tornam essa visualização mais clara!
