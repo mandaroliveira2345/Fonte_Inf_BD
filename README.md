@@ -4,7 +4,7 @@ Repositório para atividades desenvolvidas durante o 1º Semestre de GPI FATEC-S
 ## Trabalho de apresentação 
 Apresentação de slides produzidas no Canva, onde escolhemos três temas em comum para expor nossa a visão e particularidade de cada um.
 
-Para representar visualmente essa atividade eu escolhi o slide que representa qual é a inspiração de cada um. No qual eu me refiro aos meus pais, meu maior exemplo de luta, perseverança e dedicação, são a minha base!
+Para representar visualmente essa atividade, eu escolhi o slide que representa: qual é a inspiração de cada um. No qual eu me refiro aos meus pais, meu maior exemplo de luta, perseverança e dedicação, são a minha base!
 
 Abaixo está o link para a apresentação completa:
 https://canva.link/048uq1u0t4bmqez
