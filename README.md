@@ -20,7 +20,6 @@ Qual estado tem mais empresas habilitadas multimodal?
 Qual país exceto o Brasil tem o maior número de empresas?
 
 Além da representação da resposta pelas tabelas, gráficos correspondentes a cada pergunta tornam essa visualização mais clara!
-
 <img width="944" height="663" alt="Captura de tela 2026-09-03 211725" src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" />
 
 ## Análise de Dados abertos gov.br: Chegada de turistas no Brasil
