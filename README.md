@@ -6,7 +6,7 @@ Apresentação de slides produzidas no Canva, onde escolhemos três temas em com
 
 Para representar visualmente essa atividade, eu escolhi o slide que representa o tema: Qual é a inspiração de cada um. No qual eu me refiro aos meus pais, meu maior exemplo de luta, perseverança e dedicação, eles são a minha base!
 
-Abaixo está o link para a apresentação completa:
+A seguir está o link para a apresentação completa:
 https://canva.link/048uq1u0t4bmqez
 <img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" />
 
