@@ -13,6 +13,7 @@ https://canva.link/048uq1u0t4bmqez
 ## Análise de Dados abertos ANTT: Empresas Multimodais
 
 Para fazer a análise dos dados, baixamos o arquivo das empresas multimodais no portal ANTT, e representamos em tabela no excel.
+
 Onde deveríamos elaborar 2 perguntas sobre o conjunto de dados. Então utilizando a fórmula: CONT.SE, foram respondidas as seguintes perguntas:
 
 Qual estado tem mais empresas habilitadas multimodal?
