@@ -1,6 +1,7 @@
 # Fonte_Inf_BD
 Repositório para atividades desenvolvidas durante o 1º Semestre de GPI FATEC-SJC
 
+## Trabalho de apresentação 
 https://canva.link/048uq1u0t4bmqez
 <img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" />
 
