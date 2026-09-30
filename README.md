@@ -14,7 +14,7 @@ https://canva.link/048uq1u0t4bmqez
 ## Análise de Dados abertos Empresas MuLtimodais pelo Power Bi
 <img width="1299" height="773" alt="image" src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" />
 
-## Análise de Dados abertos Chegada de turistas no Brasil pelo Power Bi
+## Análise e Visualização de Dados abertos: Chegada de turistas no Brasil através do Power Bi
 <img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" />
 
 
