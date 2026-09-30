@@ -25,7 +25,7 @@ Além da representação da resposta pelas tabelas, gráficos correspondentes a 
 
 ## Análise de Dados abertos gov.br: Chegada de turistas no Brasil
 Para analisar o conjunto de dados, o arquivo de chegada de turistas no Brasil foi baixado através do portal de dados abertos gov.br, para representarmos as informações em tabela no excel.
-Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha escolha foi presentar 3 perguntas em fórmula juntamente a 3 gráficos.
+Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha escolha foi apresentar 3 perguntas em fórmula juntamente a 3 gráficos.
 
 Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
 
