@@ -11,6 +11,15 @@ https://canva.link/048uq1u0t4bmqez
 <img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" />
 
 ## Análise de Dados abertos ANTT: Empresas Multimodais
+
+Para fazer a análise dos dados baixamos o arquivo das empresas multimodais, e representamos em tabela no excel.
+Onde deveríamos elaborar 2 perguntas sobre o conjunto de dados. Então utilizando a fórmula: CONT.SE, foram respondidas as seguintes perguntas:
+
+Qual estado tem mais empresas habilitadas multimodal?
+Qual país exceto o Brasil tem o maior número de empresas?
+
+Além da representação da resposta pelas tabelas, gráficos correspondentes a cada pergunta tornam essa visualização mais clara!
+
 <img width="944" height="663" alt="Captura de tela 2026-09-03 211725" src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" />
 
 ## Análise de Dados abertos gov.br: Chegada de turistas no Brasil
