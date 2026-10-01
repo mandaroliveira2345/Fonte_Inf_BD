@@ -30,8 +30,10 @@ Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha esco
 Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
 
 Qual via de acesso foi mais utilizada pelos turistas?
+R: Constatou-se que foi a via aérea.
 
 Qual estado foi mais visitado?
+R: São Paulo
 
 Qual mês teve maior numero de túristas?
 
@@ -40,6 +42,12 @@ Além da representação da resposta pelas tabelas, a construção dos gráficos
 <img width="1296" height="642" alt="image" src="https://github.com/user-attachments/assets/d7d4a285-9a24-465e-9b41-b651f17a38a6" />
 
 ## Análise de Dados abertos: Empresas Multimodais utilizando o Power BI
+Nessa atividade fizemos a análise do conjunto dados de empresas multimodais da ANTT, através do Power BI, onde as informações foram transferidas e formatadas em tabela. Após isso fizemos a representatividade dos dados por um mapa que contém a contagem de OTM's por cidade. E utilizando a fórmula CALCULATE, obtivemos o resultado da seguinte questão:
+
+Quantas empresas tem adesão ao decreto?
+
+Onde o valor foi igual a 273, dessa forma utilizamos essa medida para ser visualmente apresentada por um cartão, facilitando a identificação da resposta.
+
 <img width="1299" height="773" alt="image" src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" />
 
 ## Análise de Dados abertos: chegada de turistas no Brasil utilizando o Power BI
