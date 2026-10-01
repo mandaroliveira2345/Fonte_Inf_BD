@@ -15,9 +15,9 @@ https://canva.link/048uq1u0t4bmqez
 Para fazer a análise dos dados, baixamos o arquivo das empresas multimodais no portal ANTT, e representamos em tabela no excel.
 Onde deveríamos elaborar 2 perguntas sobre o conjunto de dados. Então utilizando a fórmula: CONT.SE, foram respondidas as seguintes perguntas:
 
-Qual estado tem mais empresas habilitadas multimodal?
+* Qual estado tem mais empresas habilitadas multimodal?
 
-Qual país exceto o Brasil tem o maior número de empresas?
+* Qual país exceto o Brasil tem o maior número de empresas?
 
 Além da representação da resposta pelas tabelas, gráficos correspondentes a cada pergunta tornam essa visualização mais clara!
 
