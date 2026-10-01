@@ -49,6 +49,22 @@ Onde o valor foi igual a 273, dessa forma utilizamos essa medida para ser visual
 <img width="1299" height="773" alt="image" src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" />
 
 ## Análise de Dados abertos: chegada de turistas no Brasil utilizando o Power BI
+Os Dados da chegada de turistas no Brasil foram coletados no site de dados abertos gov.br, para serem analisados através do Power BI. Dessa forma adicionamos as informações formatadas em tabela, e fizemos a representatividade visual utilizando o mapa que apresenta as chegadas dos turistas por estado. Então utilizando as fórmulas VAR e MAXX, respondemos as respectivas perguntas:
+
+Qual estado teve mais chegadas de turistas?
+
+Qual o maior número de chegadas?
+
+E após calcularmos com as fórmulas, as medidas foram adicionadas aos cartões para tornar a visibilidade clara. 
+
+Após a representação das perguntas por cartões, também foram construídos dois gráficos para a análise de outras duas questões a serem analisadas:
+
+Qual via de acesso foi mais utilizada?
+
+Qual mês recebeu mais visitas?
+
+Dessa forma a análise foi feita de maneira eficiente, tornando sua visualização clara e dinâmica através de recursos visuais representados por elementos interativos.
+
 <img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" />
 
 
