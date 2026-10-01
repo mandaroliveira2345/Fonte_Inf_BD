@@ -1,5 +1,5 @@
 # Fonte_Inf_BD
-Repositório para atividades desenvolvidas durante o 1º Semestre de GPI FATEC-SJC
+Repositório para atividades desenvolvidas durante o 1º Semestre de GPI na FATEC-SJC
 
 ## Trabalho de apresentação 
 Apresentação de slides produzidas no Canva, onde escolhemos três temas em comum para expor nossa a visão e particularidade de cada um.
@@ -33,7 +33,7 @@ Qual via de acesso foi mais utilizada pelos turistas?
 
 Qual estado foi mais visitado?
 
-Qual mês teve maior numero de túristas?
+Qual mês teve maior número de túristas?
 
 Além da representação da resposta pelas tabelas, a construção dos gráficos correspondentes a cada pergunta tornaram a visualização mais clara!
 
