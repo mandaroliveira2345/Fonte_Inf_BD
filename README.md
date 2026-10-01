@@ -29,11 +29,11 @@ Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha esco
 
 Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
 
-Qual via de acesso foi mais utilizada pelos turistas?
+* Qual via de acesso foi mais utilizada pelos turistas?
 
-Qual estado foi mais visitado?
+* Qual estado foi mais visitado?
 
-Qual mês teve maior número de túristas?
+* Qual mês teve maior número de turistas?
 
 Além da representação da resposta pelas tabelas, a construção dos gráficos correspondentes a cada pergunta tornaram a visualização mais clara!
 
@@ -42,7 +42,7 @@ Além da representação da resposta pelas tabelas, a construção dos gráficos
 ## Análise de Dados abertos: Empresas Multimodais utilizando o Power BI
 Nessa atividade fizemos a análise do conjunto dados de empresas multimodais da ANTT, através do Power BI, onde as informações foram transferidas e formatadas em tabela. Após isso fizemos a representatividade dos dados por um mapa que contém a contagem de OTM's por cidade. E utilizando a fórmula CALCULATE, obtivemos o resultado da seguinte questão:
 
-Quantas empresas tem adesão ao decreto?
+* Quantas empresas tem adesão ao decreto?
 
 Onde o valor foi igual a 273, dessa forma utilizamos essa medida para ser visualmente apresentada por um cartão, facilitando a identificação da resposta.
 
@@ -51,17 +51,17 @@ Onde o valor foi igual a 273, dessa forma utilizamos essa medida para ser visual
 ## Análise de Dados abertos: chegada de turistas no Brasil utilizando o Power BI
 Os Dados da chegada de turistas no Brasil foram coletados no site de dados abertos gov.br, para serem analisados através do Power BI. Dessa forma adicionamos as informações formatadas em tabela, e fizemos a representatividade visual utilizando o mapa que apresenta as chegadas dos turistas por estado. Então utilizando as fórmulas VAR e MAXX, respondemos as respectivas perguntas:
 
-Qual estado teve mais chegadas de turistas?
+* Qual estado teve mais chegadas de turistas?
 
-Qual o maior número de chegadas?
+* Qual o maior número de chegadas?
 
 E após calcularmos com as fórmulas, as medidas foram adicionadas aos cartões para tornar a visibilidade clara. 
 
 Seguindo a partir da representação das perguntas por cartões, também foram construídos dois gráficos para a análise de outras duas questões a serem analisadas:
 
-Qual via de acesso foi mais utilizada?
+* Qual via de acesso foi mais utilizada?
 
-Qual mês recebeu mais visitas?
+* Qual mês recebeu mais visitas?
 
 Dessa forma a análise foi feita de maneira eficiente, tornando sua visualização clara e dinâmica através de recursos visuais representados por elementos interativos.
 
