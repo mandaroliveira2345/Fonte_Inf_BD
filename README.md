@@ -30,10 +30,8 @@ Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha esco
 Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
 
 Qual via de acesso foi mais utilizada pelos turistas?
-R: Constatou-se que foi a via aérea.
 
 Qual estado foi mais visitado?
-R: São Paulo
 
 Qual mês teve maior numero de túristas?
 
