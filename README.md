@@ -11,6 +11,7 @@ https://canva.link/048uq1u0t4bmqez
 <img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" />
 
 
+
 ## Análise de Dados abertos ANTT: Empresas Multimodais
 
 Para fazer a análise dos dados, baixamos o arquivo das empresas multimodais no portal ANTT, e representamos em tabela no excel.
