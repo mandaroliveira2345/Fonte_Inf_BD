@@ -57,7 +57,7 @@ Qual o maior número de chegadas?
 
 E após calcularmos com as fórmulas, as medidas foram adicionadas aos cartões para tornar a visibilidade clara. 
 
-Após a representação das perguntas por cartões, também foram construídos dois gráficos para a análise de outras duas questões a serem analisadas:
+Seguindo a partir da representação das perguntas por cartões, também foram construídos dois gráficos para a análise de outras duas questões a serem analisadas:
 
 Qual via de acesso foi mais utilizada?
 
