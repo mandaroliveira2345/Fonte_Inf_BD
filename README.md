@@ -1,5 +1,5 @@
 # Fonte_Inf_BD
-* Repositório para atividades desenvolvidas durante o 1º Semestre de GPI na FATEC-SJC
+# Repositório para atividades desenvolvidas durante o 1º Semestre de GPI na FATEC-SJC
 
 ## Trabalho de apresentação 
 Apresentação de slides produzidas no Canva, onde escolhemos três temas em comum para expor nossa a visão e particularidade de cada um.
