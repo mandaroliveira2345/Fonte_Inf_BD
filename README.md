@@ -1,71 +1,91 @@
-# Fonte_Inf_BD
-## Repositório para atividades desenvolvidas do 1º Semestre de GPI
+<div align="center">
 
-## Trabalho de apresentação 
-Apresentação de slides produzidas no Canva, onde escolhemos três temas em comum para expor a visão e particularidade de cada um.
+# 🗂️ Fonte_Inf_BD
+*Portfólio de atividades · 1º Semestre de GPI*
 
-Para representar visualmente essa atividade, eu escolhi o slide que representa o tema: Qual é a inspiração de cada um. 
-No qual eu me refiro aos meus pais, meu maior exemplo de luta, perseverança e dedicação, eles são a minha base!
+✦ &nbsp; [Apresentação](#-apresentação) &nbsp;•&nbsp; [Excel](#-análises-no-excel) &nbsp;•&nbsp; [Power BI](#-dashboards-no-power-bi) &nbsp; ✦
 
-A seguir está o link para a apresentação completa:
-https://canva.link/048uq1u0t4bmqez
-<img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" />
+---
 
-## Análise de Dados abertos ANTT: Empresas Multimodais
+</div>
 
-Para fazer a análise dos dados, baixamos o arquivo das empresas multimodais no portal ANTT, e representamos em tabela no excel.
-Onde deveríamos elaborar 2 perguntas sobre o conjunto de dados. Então utilizando a fórmula: CONT.SE, foram respondidas as seguintes perguntas:
+### 🎀 Apresentação
+Apresentação criada no Canva para expor nossas visões e trajetórias. Escolhi destacar o slide sobre **minha maior inspiração**: *meus pais*, que são meu exemplo de perseverança, amor e dedicação — a minha base.
 
-* Qual estado tem mais empresas habilitadas multimodal?
+> 🔗 [Visualizar apresentação completa no Canva](https://canva.link/048uq1u0t4bmqez)
 
-* Qual país exceto o Brasil tem o maior número de empresas?
+<br>
 
-Além da representação da resposta pelas tabelas, gráficos correspondentes a cada pergunta tornam essa visualização mais clara!
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8acdc322-9d84-448c-b016-b772232aef8b" alt="Slide Inspiração" width="80%" />
+</div>
 
-<img width="944" height="663" alt="Captura de tela 2026-09-03 211725" src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" />
+---
 
-## Análise de Dados abertos gov.br: Chegada de turistas no Brasil
-Para analisar o conjunto de dados, o arquivo de chegada de turistas no Brasil foi baixado através do portal de dados abertos gov.br, para representarmos as informações em tabela no excel.
-Após isso 5 questões deveriam ser elaboradas acerca dos dados, onde minha escolha foi apresentar 3 perguntas em fórmula juntamente a 3 gráficos.
+### 📑 Análises no Excel
 
-Utilizando a fórmula SOMASE, construí as seguintes perguntas para análise:
+#### 🏢 Empresas Multimodais (ANTT)
+Análise de dados abertos para identificar a distribuição das empresas habilitadas.
+* Utilização da fórmula `CONT.SE` para contabilizar os registros.
+* **Perguntas respondidas:**
+  * *Qual estado possui o maior número de empresas habilitadas?*
+  * *Qual país (exceto o Brasil) tem o maior número de empresas?*
 
-* Qual via de acesso foi mais utilizada pelos turistas?
+<br>
 
-* Qual estado foi mais visitado?
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7e190958-ca8d-45d0-ae8e-276928f35321" alt="Excel ANTT" width="80%" />
+</div>
 
-* Qual mês teve maior número de turistas?
+<br>
 
-Além da representação da resposta pelas tabelas, a construção dos gráficos correspondentes a cada pergunta tornaram a visualização mais clara!
+#### ✈️ Chegada de Turistas no Brasil (gov.br)
+Análise sobre o fluxo de turistas no país utilizando dados do portal **gov.br**.
+* Utilização da fórmula `SOMASE` e construção de gráficos explicativos.
+* **Perguntas respondidas:**
+  * *Qual via de acesso foi a mais utilizada?*
+  * *Qual estado foi o mais visitado?*
+  * *Qual mês registrou o maior volume de turistas?*
 
-<img width="1296" height="642" alt="image" src="https://github.com/user-attachments/assets/d7d4a285-9a24-465e-9b41-b651f17a38a6" />
+<br>
 
-## Análise de Dados abertos: Empresas Multimodais utilizando o Power BI
-Nessa atividade fizemos a análise do conjunto dados de empresas multimodais da ANTT, através do Power BI, onde as informações foram transferidas e formatadas em tabela. Após isso fizemos a representatividade dos dados por um mapa que contém a contagem de OTM's por cidade. E utilizando a fórmula CALCULATE, obtivemos o resultado da seguinte questão:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7d4a285-9a24-465e-9b41-b651f17a38a6" alt="Excel Turistas" width="80%" />
+</div>
 
-* Quantas empresas tem adesão ao decreto?
+---
 
-Onde o valor foi igual a 273, dessa forma utilizamos essa medida para ser visualmente apresentada por um cartão, facilitando a identificação da resposta.
+### 🕊️ Dashboards no Power BI
 
-<img width="1299" height="773" alt="image" src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" />
+#### 🗺️ Empresas Multimodais (ANTT)
+Transformação dos dados da ANTT em um painel interativo.
+* Visualização por mapa com a contagem de OTMs por cidade.
+* Medida em DAX com `CALCULATE` exibida em cartão: **273 empresas** têm adesão ao decreto.
 
-## Análise de Dados abertos: chegada de turistas no Brasil utilizando o Power BI
-Os Dados da chegada de turistas no Brasil foram coletados no site de dados abertos gov.br, para serem analisados através do Power BI. Dessa forma adicionamos as informações formatadas em tabela, e fizemos a representatividade visual utilizando o mapa que apresenta as chegadas dos turistas por estado. Então utilizando as fórmulas VAR e MAXX, respondemos as respectivas perguntas:
+<br>
 
-* Qual estado teve mais chegadas de turistas?
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6234aa6c-f30d-4280-bb9a-13a3d8a360af" alt="Power BI ANTT" width="80%" />
+</div>
 
-* Qual o maior número de chegadas?
+<br>
 
-E após calcularmos com as fórmulas, as medidas foram adicionadas aos cartões para tornar a visibilidade clara. 
+#### 🌷 Chegada de Turistas no Brasil (gov.br)
+Dashboard dinâmico focado na experiência e no fluxo turístico.
+* Mapeamento visual das chegadas por estado.
+* Medidas em DAX utilizando `VAR` e `MAXX` exibidas em cartões de destaque.
+* Gráficos interativos para análise de via de acesso e sazonalidade mensal.
 
-Seguindo a partir da representação das perguntas por cartões, também foram construídos dois gráficos para a análise de outras duas questões a serem analisadas:
+<br>
 
-* Qual via de acesso foi mais utilizada?
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" alt="Power BI Turistas" width="80%" />
+</div>
 
-* Qual mês recebeu mais visitas?
+---
 
-Dessa forma a análise foi feita de maneira eficiente, tornando sua visualização clara e dinâmica através de recursos visuais representados por elementos interativos.
+<div align="center">
 
-<img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" />
+*Feito com carinho para o 1º semestre de GPI* 🤍
 
-
+</div>
