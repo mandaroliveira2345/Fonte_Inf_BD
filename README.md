@@ -68,4 +68,9 @@ Dessa forma a análise foi feita de maneira eficiente, tornando sua visualizaç�
 
 <img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" />
 
+## Atividade de Regressão Linear: venda de sorvetes
+
+
+
+<img width="806" height="500" alt="image" src="https://github.com/user-attachments/assets/8296aada-5601-4569-8d65-abf24ceb6b49" />
 
