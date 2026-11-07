@@ -68,7 +68,7 @@ Dessa forma a análise foi feita de maneira eficiente, tornando sua visualizaç�
 
 <img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/a713e79f-dc71-4da2-bd7f-8c091061c1ea" />
 
-## Atividade de Regressão Linear: venda de sorvetes
+## Atividade de Regressão Linear: venda de sorvetes - Google colab
 
 
 
