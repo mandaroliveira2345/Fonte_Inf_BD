@@ -79,3 +79,8 @@ Dessa forma a análise foi feita de maneira eficiente, tornando sua visualizaç�
 
 <img width="806" height="500" alt="image" src="https://github.com/user-attachments/assets/8296aada-5601-4569-8d65-abf24ceb6b49" />
 
+## Gráfico de regressão linear: idade média ao casar
+
+<img width="1523" height="673" alt="image" src="https://github.com/user-attachments/assets/67ecc9e2-301a-4efe-8e6c-c7e2ffedd085" />
+
+
