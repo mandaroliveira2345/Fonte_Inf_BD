@@ -83,4 +83,7 @@ Dessa forma a análise foi feita de maneira eficiente, tornando sua visualizaç�
 
 <img width="1523" height="673" alt="image" src="https://github.com/user-attachments/assets/67ecc9e2-301a-4efe-8e6c-c7e2ffedd085" />
 
+## Segmentação de dados Power Bi investimentos 
+
+<img width="1100" height="616" alt="image" src="https://github.com/user-attachments/assets/1844b23b-e629-4576-a937-9e229cd42165" />
 
